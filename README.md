@@ -30,7 +30,7 @@ I enjoy turning ideas into reality. Here are a few projects I've been working on
 
 ## 📚 Education
 
-- Bachelor of Software Developent and Entrepreneurship, Estonian Entrepreneurship university of Applied Sciences
+- Bachelor of Software Development and Entrepreneurship, Estonian Entrepreneurship university of Applied Sciences
 
 ## 🤝 Let's Connect!
 
