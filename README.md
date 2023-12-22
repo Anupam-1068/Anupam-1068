@@ -24,7 +24,9 @@ I believe in the power of continuous learning. Currently, I am diving deeper int
 I enjoy turning ideas into reality. Here are a few projects I've been working on:
 
 - [Gallery App]((https://github.com/Anupam-1068/photo-gallery-02.git): A gallery App using flutter.
-- [Library management System](https://github.com/Anupam-1068/library-management-system-frontend.git,https://github.com/Anupam-1068/PersonalProject.git): A library management system using Spring boot annd React.
+- [Library management System Frontend](https://github.com/Anupam-1068/library-management-system-frontend.git): A library management system with React.
+- [Library management System Backend](https://github.com/Anupam-1068/PersonalProject.git): A library management system with Spring boot.
+
 
 ## 📚 Education
 
@@ -34,6 +36,6 @@ I enjoy turning ideas into reality. Here are a few projects I've been working on
 
 I'm always open to new opportunities, collaborations, and learning from fellow developers. Feel free to reach out:
 
-- (https://www.linkedin.com/in/anupam-agarwal-2a01ab231/)
+- https://www.linkedin.com/in/anupam-agarwal-2a01ab231/
 
 Looking forward to connecting with like-minded developers and building awesome things together! 🚀
