@@ -1,6 +1,6 @@
 # 👋 Hello, World! 
 
-I'm Anupam, a passionate software developer on a mission to turn lines of code into meaningful solutions. My journey into the world of programming began with a curiosity for problem-solving, and it has since evolved into a love for creating efficient and elegant software.
+I'm Anupam, a passionate software developer student on a mission to turn lines of code into meaningful solutions. My journey into the world of programming began with a curiosity for problem-solving, and it has since evolved into a love for creating efficient and elegant software.
 
 ## 💻 Tech Stack
 
