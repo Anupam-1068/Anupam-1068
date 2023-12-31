@@ -7,7 +7,7 @@ I'm Anupam, a passionate software developer student on a mission to turn lines o
 - **Languages:** Java, Python,React.js
 - **Web Development:** HTML, CSS, JavaScript
 - **Mobile Development:** Flutter,React native
-- **Frameworks:** Spring Boot
+- **Frameworks:** Spring Boot, Bootstrap
 - **Databases:** MySQL, Postgres
 - **UI/UX:** Figma
 - **Tools:** Git, VS Code, Eclipse,Intellj
