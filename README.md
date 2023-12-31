@@ -9,6 +9,7 @@ I'm Anupam, a passionate software developer student on a mission to turn lines o
 - **Mobile Development:** Flutter,React native
 - **Frameworks:** Spring Boot
 - **Databases:** MySQL, Postgres
+- **UI/UX:** Figma
 - **Tools:** Git, VS Code, Eclipse,Intellj
 - **Other Skills:** Object-Oriented Programming, RESTful API Design, Docker
 
