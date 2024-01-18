@@ -5,7 +5,7 @@ I'm Anupam, a passionate software developer student on a mission to turn lines o
 ## 💻 Tech Stack
 
 - **Languages:** Java, Python,React.js
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, Typescript
 - **Mobile Development:** Flutter,React native
 - **Frameworks:** Spring Boot, Bootstrap
 - **Databases:** MySQL, Postgres
