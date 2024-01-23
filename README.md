@@ -26,6 +26,7 @@ I enjoy turning ideas into reality. Here are a few projects I've been working on
 
 - [Gallery App](https://github.com/Anupam-1068/photo-gallery-02.git): A gallery App using flutter.
 - [Library management System](https://github.com/Anupam-1068/library-management-system): A library management system with React and Spring Boot.
+- [SQL vs. Python data processing and data analysis](https://github.com/Anupam-1068/Indian-Premium-League): Compare Sql and Python while also analysing Indian Premeir League
 
 
 
