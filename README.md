@@ -25,8 +25,8 @@ I believe in the power of continuous learning. Currently, I am diving deeper int
 I enjoy turning ideas into reality. Here are a few projects I've been working on:
 
 - [Gallery App](https://github.com/Anupam-1068/photo-gallery-02.git): A gallery App using flutter.
-- [Library management System Frontend](https://github.com/Anupam-1068/library-management-system-frontend.git): A library management system with React.
-- [Library management System Backend](https://github.com/Anupam-1068/PersonalProject/tree/master): A library management system with Spring boot.
+- [Library management System](https://github.com/Anupam-1068/library-management-system): A library management system with React and Spring Boot.
+
 
 
 ## 📚 Education
