@@ -25,16 +25,18 @@ I believe in the power of continuous learning. Currently, I am diving deeper int
 
 I enjoy turning ideas into reality. Here are a few projects I've been working on:
 
-### Team Project:
+### Web Development:
 
 - [Allerta]( https://github.com/Allerta-allergen/Allerta) It is a web application that takes a list of ingredients or a photo of the ingredients label of a product, references them with a database of allergens, or user-defined allergens, then informs the user of potential allergens that may affect them, helping them avoid food allergy.
-
-### Individual Project:
-
 - [Reservify](https://github.com/Anupam-1068/reservify-project) It is a web application designed to simplify the process of booking study spaces and collaborative areas within educational institutions. It aims to provide a seamless and user-friendly experience for students, researchers, and professionals who need access to suitable study environments.
-- [Gallery App](https://github.com/Anupam-1068/photo-gallery-02.git): A gallery App using flutter.
 - [Library management System](https://github.com/Anupam-1068/library-management-system): A library management system with React and Spring Boot.
+
+### Mobile Development
+- [Gallery App](https://github.com/Anupam-1068/photo-gallery-02.git): A gallery App using flutter.
+
+### Data Analysis
 - [SQL vs. Python data processing and data analysis](https://github.com/Anupam-1068/Indian-Premium-League): Compare Sql and Python while also analysing Indian Premeir League
+- [Ülemiste City Analysis](https://github.com/Anupam-1068/Indian-Premium-League): This project involves a comprehensive analysis of profit trends and correlations in Ülemiste City. Using time series and heatmap visualizations, we aim to uncover significant patterns and relationships within the dataset.
 
 ## 📚 Education
 
