@@ -38,7 +38,7 @@ I enjoy turning ideas into reality. Here are a few projects I've been working on
 ### Mobile Development
 - [Gallery App](https://github.com/Anupam-1068/photo-gallery-02.git): A gallery App using flutter.
 
-- ### Software Testing
+### Software Testing
 - [Automated Testing for Playtech Website Functionality and Navigation](https://github.com/Anupam-1068/Software-Testing): Automated tests for the Playtech website to ensure smooth user experience and validate page functionality.
 
 ## 📚 Education
