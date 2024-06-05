@@ -35,11 +35,12 @@ I enjoy turning ideas into reality. Here are a few projects I've been working on
 - [SQL vs. Python data processing and data analysis](https://github.com/Anupam-1068/Indian-Premium-League): Compare Sql and Python while also analysing Indian Premeir League
 - [Ülemiste City Analysis](https://github.com/Anupam-1068/Indian-Premium-League): This project involves a comprehensive analysis of profit trends and correlations in Ülemiste City. Using time series and heatmap visualizations, we aim to uncover significant patterns and relationships within the dataset.
 
+### Software Testing
+- [Automated Testing for Playtech Website Functionality and Navigation](https://github.com/Anupam-1068/Software-Testing): Automated tests for the Playtech website to ensure smooth user experience and validate page functionality.
+  
 ### Mobile Development
 - [Gallery App](https://github.com/Anupam-1068/photo-gallery-02.git): A gallery App using flutter.
 
-### Software Testing
-- [Automated Testing for Playtech Website Functionality and Navigation](https://github.com/Anupam-1068/Software-Testing): Automated tests for the Playtech website to ensure smooth user experience and validate page functionality.
 
 ## 📚 Education
 
